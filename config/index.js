@@ -45,7 +45,7 @@ export const config = {
     }, 
     {
       name: "杨进秀", 
-      id: "",
+      id: "oH0O_6sgFIRyEzZAFqswo_zbYxeI",
       useTemplateId: "K8M2WZow0lqFok76PC6jhL32oLnhJObyuALusN1k9WY",
       province: "甘肃",
       city: "兰州",
@@ -91,7 +91,7 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "杨进秀", "year": "2001", "date": "06-29"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "07-10"},
+    {"type": "节日", "name": "一周年纪念日", "year": "2022", "date": "05-02"},
     {"type": "生日", "name": "杨阳", "year": "2002", "date": "07-22"},
   ],
 
