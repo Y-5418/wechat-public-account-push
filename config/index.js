@@ -41,15 +41,15 @@ export const config = {
       // 所在城市
       city: "天水",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://y-5418.github.io/"
     }, 
     {
-      name: "老婆1", 
+      name: "杨进秀", 
       id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      useTemplateId: "CAviGdzHosfqtlRZTp6W345faj3exil48PTVc_tlfh0",
+      province: "甘肃",
+      city: "兰州",
+      openUrl: "https://y-5418.github.io/"
     }, 
   ],
 
@@ -77,9 +77,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "甘肃",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "兰州",
 
   /** 重要节日相关 */
 
@@ -90,10 +90,9 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "杨进秀", "year": "2001", "date": "06-29"},
+    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "07-10"},
+    {"type": "生日", "name": "杨阳", "year": "2002", "date": "07-22"},
   ],
 
   /**
@@ -101,7 +100,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 4,
+  FESTIVALS_LIMIT: 3,
 
   /** 日期相关 */
 
@@ -111,9 +110,9 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
+    {"keyword": "love_day", date: "2022-05-02"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2020-01-04"},
+    {"keyword": "marry_day", date: "2022-07-10"},
     // 退伍日, 不用可以删掉
     {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
