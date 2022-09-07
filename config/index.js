@@ -90,9 +90,9 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "杨进秀", "year": "2001", "date": "06-29"},
-    {"type": "节日", "name": "一周年纪念日", "year": "2022", "date": "05-02"},
-    {"type": "生日", "name": "杨阳", "year": "2002", "date": "07-22"},
+    {"type": "生日", "name": "杨进秀", "year": "2001", "date": "06-28"},
+    {"type": "节日", "name": "一周年纪念日", "year": "2022", "date": "05-01"},
+    {"type": "生日", "name": "杨阳", "year": "2002", "date": "07-21"},
   ],
 
   /**
@@ -110,9 +110,9 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-05-02"},
+    {"keyword": "love_day", date: "2022-05-01"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-07-10"},
+    {"keyword": "marry_day", date: "2022-07-09"},
     // 退伍日, 不用可以删掉
     {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
