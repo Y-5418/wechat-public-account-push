@@ -92,7 +92,7 @@ export const config = {
   FESTIVALS: [
     {"type": "生日", "name": "杨进秀", "year": "2001", "date": "06-28"},
     {"type": "节日", "name": "一周年纪念日", "year": "2022", "date": "05-01"},
-    {"type": "生日", "name": "杨阳", "year": "2002", "date": "07-21"},
+    {"type": "*生日", "name": "杨阳", "year": "2002", "date": "07-22"},
   ],
 
   /**
