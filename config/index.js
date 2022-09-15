@@ -49,7 +49,7 @@ export const config = {
       useTemplateId: "K8M2WZow0lqFok76PC6jhL32oLnhJObyuALusN1k9WY",
       province: "甘肃",
       city: "兰州",
-      openUrl: "https://y-5418.github.io/"
+      openUrl: "http://love.hunlipic.com/web.php?id=RXyLJp7"
     }, 
   ],
 
@@ -92,7 +92,7 @@ export const config = {
   FESTIVALS: [
     {"type": "生日", "name": "杨进秀", "year": "2001", "date": "06-28"},
     {"type": "节日", "name": "一周年纪念日", "year": "2022", "date": "05-01"},
-    {"type": "*生日", "name": "杨阳", "year": "2002", "date": "07-22"},
+    {"type": "生日", "name": "杨阳", "year": "2002", "date": "07-22"},
   ],
 
   /**
