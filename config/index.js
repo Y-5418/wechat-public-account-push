@@ -49,7 +49,7 @@ export const config = {
       useTemplateId: "K8M2WZow0lqFok76PC6jhL32oLnhJObyuALusN1k9WY",
       province: "甘肃",
       city: "兰州",
-      openUrl: "http://love.hunlipic.com/web.php?id=RXyLJp7"
+      openUrl: "http://love.hunlipic.com/web.php?id=bpSXF6q"
     }, 
   ],
 
