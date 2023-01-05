@@ -22,7 +22,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "zjVglIuCXo4CsraXWEio1iP7sZJ7IQEES9lDsgc4yOU",
+   *    useTemplateId: "zjVglIuCXo4CsraXWEio1iP7ZJ7IQEES9lDsgc4yOU",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -33,7 +33,7 @@ export const config = {
       // 想要发送的人的名字
       name: "杨阳",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oH0O_6vDEQbYiuKCTkVazKILwQ0w",
+      id: "oH0O_6vDEQbYiCTkVaKILwQ0w",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "K8M2WZow0lqFok76PC6jhL32oLnhJObyuALusN1k9WY",
       // 所在省份
@@ -45,8 +45,8 @@ export const config = {
     }, 
     {
       name: "杨进秀", 
-      id: "oH0O_6sgFIRyEzZAFqswo_zbYxeI",
-      useTemplateId: "K8M2WZow0lqFok76PC6jhL32oLnhJObyuALusN1k9WY",
+      id: "oH0O_6sgFIRyEzZAqswo_zbYeI",
+      useTemplateId: "K8M2WZow0qFok76PC6jhL32oLnhJObyuALusN1k9WY",
       province: "甘肃",
       city: "兰州",
       openUrl: "http://love.hunlipic.com/web.php?id=bpSXF6q"
@@ -58,7 +58,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "rHOPTogvh25mHa3NaZUsSzTdcyKvtUKidBxZbVmcnWI",
+  CALLBACK_TEMPLATE_ID: "rHOPTogvh25mHa3aZUsSzTdcyKvtUKidBxZbVmcnWI",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -66,7 +66,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oH0O_6vDEQbYiuKCTkVazKILwQ0w",
+      id: "oH0O_6vDEQbYiuKkVazKILwQ0w",
     }, 
   ],
     
