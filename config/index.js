@@ -44,12 +44,12 @@ export const config = {
       openUrl: "http://love.hunlipic.com/web.php?id=Y8VTeQ1"
     }, 
     {
-      name: "杨进秀", 
-      id: "oH0O_6sgFI6666RyEzZAqswo_zbYeI",
-      useTemplateId: "K8M2WZow0lqFok76PC6jhL32oLnhJObyuALusN1k9WY",
+      name: "任洁", 
+      id: "oH0O_6mS8IE8PY9kGhxm5xNdAnKI",
+      useTemplateId: "-5ZG_ie8JtIB1K59nFBtwAsJ3fUZub_4-UENI5KRjZQ",
       province: "甘肃",
-      city: "兰州",
-      openUrl: "http://love.hunlipic.com/web.php?id=bpSXF6q"
+      city: "金昌",
+      openUrl: "http://love.hunlipic.com/web.php?id=Y8VTeQ1"
     }, 
   ],
 
@@ -66,7 +66,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oH0O_6vDEQbYiuKkVazKILwQ0w",
+      id: "oH0O_6vDEQbYiuKCTkVazKILwQ0w",
     }, 
   ],
     
@@ -79,7 +79,7 @@ export const config = {
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
   PROVINCE: "甘肃",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "兰州",
+  CITY: "金昌",
 
   /** 重要节日相关 */
 
