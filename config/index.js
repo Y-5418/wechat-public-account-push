@@ -33,7 +33,7 @@ export const config = {
       // 想要发送的人的名字
       name: "杨阳",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oH0O_6vDEQbYiCTkVaKILwQ0w",
+      id: "oH0O_6vDEQbYiuKCTkVazKILwQ0w",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "K8M2WZow0lqFok76PC6jhL32oLnhJObyuALusN1k9WY",
       // 所在省份
@@ -41,12 +41,12 @@ export const config = {
       // 所在城市
       city: "金昌",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://y-5418.github.io/"
+      openUrl: "http://love.hunlipic.com/web.php?id=Y8VTeQ1"
     }, 
     {
       name: "杨进秀", 
-      id: "oH0O_6sgFIRyEzZAqswo_zbYeI",
-      useTemplateId: "K8M2WZow0qFok76PC6jhL32oLnhJObyuALusN1k9WY",
+      id: "oH0O_6sgFI6666RyEzZAqswo_zbYeI",
+      useTemplateId: "K8M2WZow0lqFok76PC6jhL32oLnhJObyuALusN1k9WY",
       province: "甘肃",
       city: "兰州",
       openUrl: "http://love.hunlipic.com/web.php?id=bpSXF6q"
@@ -90,8 +90,8 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "杨进秀", "year": "2001", "date": "06-28"},
-    {"type": "节日", "name": "一周年纪念日", "year": "2022", "date": "05-01"},
+    {"type": "生日", "name": "任洁", "year": "2005", "date": "06-29"},
+    {"type": "节日", "name": "一周年纪念日", "year": "2023", "date": "03-16"},
     {"type": "生日", "name": "杨阳", "year": "2002", "date": "07-22"},
   ],
 
@@ -110,7 +110,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-05-01"},
+    {"keyword": "love_day", date: "2023-03-16"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2022-07-09"},
     // 退伍日, 不用可以删掉
