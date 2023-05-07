@@ -45,7 +45,7 @@ export const config = {
     }, 
     {
       name: "任洁", 
-      id: "999oH0O_6mS8IE8PY9kGhxm5xNdAnKI",
+      id: "oH0O_6mS8IE8PY9kGhxm5xNdAnKI",
       useTemplateId: "-5ZG_ie8JtIB1K59nFBtwAsJ3fUZub_4-UENI5KRjZQ",
       province: "甘肃",
       city: "金昌",
