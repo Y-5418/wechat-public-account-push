@@ -140,6 +140,9 @@ export const config = {
 
   /** 每日一言 */
 
+   // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
+    earthyLoveWords: true,
+  
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
   LITERARY_PREFERENCE: ""
@@ -148,5 +151,6 @@ export const config = {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: 'a3b946bacb6d0abcec36cd1533a070d5',
   
-  
+  // 空气质量, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
+    aqi: true,
 }
