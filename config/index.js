@@ -45,7 +45,7 @@ export const config = {
     }, 
     {
       name: "任洁", 
-      id: "oH0O_6mS8IE8PY9kGhxm5xNdAnKI",
+      id: "999oH0O_6mS8IE8PY9kGhxm5xNdAnKI",
       useTemplateId: "-5ZG_ie8JtIB1K59nFBtwAsJ3fUZub_4-UENI5KRjZQ",
       province: "甘肃",
       city: "金昌",
@@ -110,7 +110,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2023-03-16"},
+    {"keyword": "love_day", date: "2023-03-15"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2022-07-09"},
     // 退伍日, 不用可以删掉
@@ -122,6 +122,10 @@ export const config = {
 
   /** 插槽 */
 
+  TIAN_API: {
+    // 天行API KEY，如果使用天行API则需要填写此项
+    key: 'a3b946bacb6d0abcec36cd1533a070d5',
+  
   /** 你可以在这里写超多的你想显示的内容了！
     * keyword是指暴露给测试号的模板字段，填什么就暴露什么, 请注意不要和README的出参表中的字段重复。
     * 比如：keyword: "lover_prattle" ，在测试号中就是 {{ lover_prattle.DATA }} 
