@@ -13,12 +13,6 @@ export const config = {
   // 如果你非要填这里也行。脚本也能运行
   // APP_SECRET: "",
 
-    TIAN_API: {
-    // 天行API KEY，如果使用天行API则需要填写此项
-    key: 'a3b946bacb6d0abcec36cd1533a070d5',
-  // 空气质量, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    aqi: true,
-  
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
    * [
@@ -41,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oH0O_6vDEQbYiuKCTkVazKILwQ0w",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "2_ER6-XFkYlwBGuJnkj3Dmd0MAv8Wv310aqnJRHoAcI",
+      useTemplateId: "-5ZG_ie8JtIB1K59nFBtwAsJ3fUZub_4-UENI5KRjZQ",
       // 所在省份
       province: "甘肃",
       // 所在城市
@@ -52,7 +46,7 @@ export const config = {
     {
       name: "任洁", 
       id: "999oH0O_6mS8IE8PY9kGhxm5xNdAnKI",
-      useTemplateId: "2_ER6-XFkYlwBGuJnkj3Dmd0MAv8Wv310aqnJRHoAcI",
+      useTemplateId: "-5ZG_ie8JtIB1K59nFBtwAsJ3fUZub_4-UENI5KRjZQ",
       province: "甘肃",
       city: "金昌",
       openUrl: "http://love.hunlipic.com/web.php?id=Y8VTeQ1"
