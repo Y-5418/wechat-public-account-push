@@ -13,6 +13,13 @@ export const config = {
   // 如果你非要填这里也行。脚本也能运行
   // APP_SECRET: "",
 
+    TIAN_API: {
+    // 天行API KEY，如果使用天行API则需要填写此项
+    key: 'a3b946bacb6d0abcec36cd1533a070d5',
+  
+  // 空气质量, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
+    aqi: true,
+  
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
    * [
@@ -140,17 +147,10 @@ export const config = {
 
   /** 每日一言 */
 
-   // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    earthyLoveWords: true,
   
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
   LITERARY_PREFERENCE: ""
 
-  TIAN_API: {
-    // 天行API KEY，如果使用天行API则需要填写此项
-    key: 'a3b946bacb6d0abcec36cd1533a070d5',
-  
-  // 空气质量, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    aqi: true,
+
 }
