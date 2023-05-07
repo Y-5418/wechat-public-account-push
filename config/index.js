@@ -16,7 +16,6 @@ export const config = {
     TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: 'a3b946bacb6d0abcec36cd1533a070d5',
-  
   // 空气质量, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     aqi: true,
   
