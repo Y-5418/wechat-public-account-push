@@ -122,10 +122,6 @@ export const config = {
 
   /** 插槽 */
 
-  TIAN_API: {
-    // 天行API KEY，如果使用天行API则需要填写此项
-    key: 'a3b946bacb6d0abcec36cd1533a070d5',
-  
   /** 你可以在这里写超多的你想显示的内容了！
     * keyword是指暴露给测试号的模板字段，填什么就暴露什么, 请注意不要和README的出参表中的字段重复。
     * 比如：keyword: "lover_prattle" ，在测试号中就是 {{ lover_prattle.DATA }} 
@@ -148,5 +144,9 @@ export const config = {
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
   LITERARY_PREFERENCE: ""
 
-
+  TIAN_API: {
+    // 天行API KEY，如果使用天行API则需要填写此项
+    key: 'a3b946bacb6d0abcec36cd1533a070d5',
+  
+  
 }
